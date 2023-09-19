@@ -1,3 +1,5 @@
+package uniderp.poo.escola.dominio;
+
 public abstract class BaseDadosComuns extends BaseIdentificador {
 
     protected String nome;
