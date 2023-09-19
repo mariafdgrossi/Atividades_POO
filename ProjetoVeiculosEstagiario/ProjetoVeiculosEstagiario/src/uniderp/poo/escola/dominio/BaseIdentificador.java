@@ -1,3 +1,5 @@
+package uniderp.poo.escola.dominio;
+
 public abstract class BaseIdentificador {
 
     protected int codigo;
