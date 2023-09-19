@@ -1,3 +1,5 @@
+package uniderp.poo.escola.dominio;
+
 public class Aviao extends BaseVeiculos {
 
     private int assentos;
