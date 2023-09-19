@@ -1,3 +1,5 @@
+package uniderp.poo.escola.dominio;
+
 public class Carro extends BaseVeiculosTerrestre {
 
     private Float quilometragem;
