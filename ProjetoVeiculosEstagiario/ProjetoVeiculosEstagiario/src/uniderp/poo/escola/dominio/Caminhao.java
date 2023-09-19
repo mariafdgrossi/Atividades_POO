@@ -1,3 +1,5 @@
+package uniderp.poo.escola.dominio;
+
 public class Caminhao extends BaseVeiculosTerrestre{
 
     private Float capacidadeCarga;
