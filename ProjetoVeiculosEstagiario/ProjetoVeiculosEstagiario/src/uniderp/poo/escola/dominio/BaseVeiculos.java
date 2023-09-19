@@ -1,3 +1,5 @@
+package uniderp.poo.escola.dominio;
+
 public abstract class BaseVeiculos extends BaseDadosComuns implements IImpressao {
 
     protected String modelo;
