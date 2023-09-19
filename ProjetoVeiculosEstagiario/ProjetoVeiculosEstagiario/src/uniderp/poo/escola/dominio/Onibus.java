@@ -1,3 +1,5 @@
+package uniderp.poo.escola.dominio;
+
 public class Onibus extends BaseVeiculosTerrestre{
 
     private int capacidadeTotal;
