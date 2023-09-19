@@ -1,3 +1,5 @@
+package uniderp.poo.escola.dominio;
+
 public class Motocicleta extends BaseVeiculosTerrestre{
 
     private int cilindros;
